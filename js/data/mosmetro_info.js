@@ -1,9 +1,4 @@
-//
-// Moscow Metro lines and stations info.
-//  INFOMST    {fkeystation:[opening_date,depth]}
-//  INFOMLINES {fkeyline:[label]}
-// Source https://ru.wikipedia.org/wiki/Список_станций_Московского_метрополитена
-//
+
 var INFOMST={
 's1_Bulvar_Rokossovskogo':['1 августа 1990','−8 м','https://interfire.ru/'],
 's1_7_Cherkizovskaya':['1 августа 1990','−9 м','https://interfire.ru/'],
